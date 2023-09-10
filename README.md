@@ -4,5 +4,5 @@
 ![Alt Text](images/Overview-the-architecture.png)
 
 ## Tech Stack
-![Alt Text](images/Tech Stack Diagram.png)
+![Alt Text](images/Tech_Stack_Diagram.png)
 
